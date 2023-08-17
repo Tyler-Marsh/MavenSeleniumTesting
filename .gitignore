@@ -1,0 +1,61 @@
+/drivers/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Virtual Machine crash logs
+hs_err_pid*
+
+# Maven - Ignore all build-related artifacts
+/target/
+
+# Gradle - Ignore all build-related artifacts
+/build/
+.gradle/
+
+# IDEA IntelliJ - Ignore project specific files
+.idea/
+*.iml
+*.iws
+/out/
+
+# Eclipse - Ignore project specific files
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# NetBeans - Ignore project specific files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
