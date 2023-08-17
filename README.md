@@ -6,6 +6,8 @@ Java Selenium POM (Page Object Model) project using Spring Boot for Dependency I
 
 This repository contains a Java Selenium testing project designed to demonstrate a practical approach to automated browser testing. With the power of Selenium and the robustness of Java, this project showcases tests that can be executed both within an IDE and via the command line using Maven.
 
+Utilizing Dependency Injection and the Page Object Model, this project ensures a modular and maintainable codebase. These patterns enhance reusability, readability, and ease of testing, fostering a robust and efficient testing framework.
+
 ## Prerequisites
 
 - Java JDK
@@ -19,7 +21,7 @@ This repository contains a Java Selenium testing project designed to demonstrate
 
 1. **Clone the Repository**
 ```
-git clone https://github.com/yourusername/yourrepositoryname.git
+git clone https://github.com/Tyler-Marsh/MavenSeleniumTesting.git
 ```
 
 2. **Navigate to the project directory**
