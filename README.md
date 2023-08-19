@@ -15,7 +15,7 @@ Utilizing Dependency Injection and the Page Object Model, this project ensures a
 - Google Chrome Browser
 - ChromeDriver
 
-> **Note**: Ensure that you have the latest version of ChromeDriver installed, which should be compatible with the version of your Chrome browser.
+> **Note**: Ensure that you have the latest version of ChromeDriver installed, which should be compatible with the version of your Chrome browser. Place the chromedriver inside the drivers directory in the project
 
 ## Getting Started
 
